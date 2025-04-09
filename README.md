@@ -50,3 +50,11 @@ Melhorias 02.
 function soma (a, b){
     return a+b;
 }
+```
+
+## Lista de tarefas a fazer:
+
+- [ x ] Área de Login
+- [ ] Página inicial
+- [ ] Integração de pagamentos
+- [ x ] Comentários

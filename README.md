@@ -1,5 +1,9 @@
 # ecommerce_empresa_teste
-Este é um ecommerce para uma empresa. Linguagem a definir.
+Vamos criar um e-commerce para uma empresa.
+
+## Funcionalidades:
+
+Checkout, Tela de Produto, Catálogo, Home
 
 # Teste
 Aplicando teste.

@@ -54,7 +54,7 @@ function soma (a, b){
 
 ## Lista de tarefas a fazer:
 
-- [ x ] Área de Login
+- [x] Área de Login
 - [ ] Página inicial
 - [ ] Integração de pagamentos
-- [ x ] Comentários
+- [x] Comentários

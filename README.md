@@ -36,7 +36,7 @@ Melhorias 02.
 
 #### Imagem Externa:
 
-![Logo do E-commerce](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fecommerce_8539259&psig=AOvVaw1_tbueagMtvgjIMpdGm19M&ust=1744326187372000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDBprmHzIwDFQAAAAAdAAAAABAl)
+![Logo do E-commerce](https://i.pinimg.com/originals/75/fa/9b/75fa9b17f632646e5ae7fae3cf837761.jpg)
 
 ## Link Importantes:
 

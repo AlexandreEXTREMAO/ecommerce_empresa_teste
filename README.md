@@ -30,3 +30,7 @@ Melhorias 02.
 2. Integração de pagamentos
 3. Sistema de vendas
 
+#### Imagem Local:
+
+![Logo do E-commerce](img/logo.png)
+

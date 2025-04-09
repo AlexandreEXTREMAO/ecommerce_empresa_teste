@@ -32,7 +32,7 @@ Melhorias 02.
 
 #### Imagem Local:
 
-![Logo do Ecommerce](img/logo2.jpg)
+![Logo do Ecommerce](C:\Users\alexa\OneDrive\Área de Trabalho\Curso de Git e Github\8_markdown\ecommerce_empresa_teste\img)
 
 #### Imagem Externa:
 

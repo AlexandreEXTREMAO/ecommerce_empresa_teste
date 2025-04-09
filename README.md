@@ -38,3 +38,6 @@ Melhorias 02.
 
 ![Logo do E-commerce](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fecommerce_8539259&psig=AOvVaw1_tbueagMtvgjIMpdGm19M&ust=1744326187372000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDBprmHzIwDFQAAAAAdAAAAABAl)
 
+## Link Importantes:
+[Google](https://www.google.com)
+

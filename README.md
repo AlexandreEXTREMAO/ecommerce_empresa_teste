@@ -13,3 +13,11 @@ Aplicando teste.
 
 Melhoria 01.
 Melhorias 02.
+
+### Linguagens do projeto:
+* HTML
+* CSS
+* Javascript
+* PHP
+* MySQL
+

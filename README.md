@@ -21,3 +21,9 @@ Melhorias 02.
 * PHP
 * MySQL
 
+### Funcionalidades a desenvolver:
+
+1. Área de Login
+2. Integração de pagamentos
+3. Sistema de vendas
+

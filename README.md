@@ -7,3 +7,8 @@ Checkout, Tela de Produto, Catálogo, Home
 
 # Teste
 Aplicando teste.
+
+###### Melhorias do projeto:
+
+Melhoria 01.
+Melhorias 02.

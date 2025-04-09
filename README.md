@@ -1,10 +1,10 @@
 # E-commerce_empresa_teste
 
-Vamos criar um e-commerce para uma empresa.
+Vamos criar um **e-commerce** para uma _empresa_.
 
 ## Funcionalidades:
 
-Checkout, Tela de Produto, Catálogo, Home
+_Checkout, **Tela de Produto**, Catálogo, Home_
 
 # Teste
 Aplicando teste.

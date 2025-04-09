@@ -1,4 +1,5 @@
-# ecommerce_empresa_teste
+# E-commerce_empresa_teste
+
 Vamos criar um e-commerce para uma empresa.
 
 ## Funcionalidades:

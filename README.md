@@ -32,5 +32,5 @@ Melhorias 02.
 
 #### Imagem Local:
 
-![Logo do E-commerce](img/logo.png)
+![Logo do E-commerce](/ecommerce_empresa_teste/img/logo.png)
 

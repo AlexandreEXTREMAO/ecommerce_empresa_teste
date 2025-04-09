@@ -44,3 +44,9 @@ Melhorias 02.
 
 [Google](https://www.google.com)
 
+## Código da função soma:
+
+```javascript
+function soma (a, b){
+    return a+b;
+}

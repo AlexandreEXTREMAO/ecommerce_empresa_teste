@@ -32,13 +32,15 @@ Melhorias 02.
 
 #### Imagem Local:
 
-![Logo do E-commerce](/ecommerce_empresa_teste/img/logo2.jpg)
+![Logo do Ecommerce](img/logo2.jpg)
 
 #### Imagem Externa:
 
-![Logo do E-commerce](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fecommerce_8539259&psig=AOvVaw1_tbueagMtvgjIMpdGm19M&ust=1744326187372000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDBprmHzIwDFQAAAAAdAAAAABAl)
+![Logo do Ecommerce](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fecommerce_8539259&psig=AOvVaw1_tbueagMtvgjIMpdGm19M&ust=1744326187372000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDBprmHzIwDFQAAAAAdAAAAABAl)
 
 ## Link Importantes:
+
 [MeuPerfil](https://github.com/AlexandreEXTREMAO)
+
 [Google](https://www.google.com)
 
